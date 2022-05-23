@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hastanenerede</string>
+    <string name="map_key" translatable="false"></string>
+    <string name="test">test</string>
+</resources>
